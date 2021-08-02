@@ -7,8 +7,8 @@ This is a fork of st, the original repo can be found here: [https://git.suckless
 The original st webpage is here: [https://st.suckless.org/](https://st.suckless.org/)
 
 ### Patches applied
-* (st-gruvbox)[https://st.suckless.org/patches/gruvbox/]
-* (scrollback)[https://st.suckless.org/patches/scrollback/]
+* [st-gruvbox](https://st.suckless.org/patches/gruvbox/)
+* [scrollback](https://st.suckless.org/patches/scrollback/)
 
 ### Extra features of this fork.
 + **scrollback** support with `alt-↑/↓` or `alt-pageup/down` or `shift` while scrolling the
