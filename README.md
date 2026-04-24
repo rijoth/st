@@ -119,8 +119,3 @@ Note that when you run `wal`, it will negate the transparency of existing window
 | Scrollback | 10,000 lines |
 | Cursor | Block |
 | Bell Volume | 0 (off) |
-
-## Contact
-
-- Rijo Smamantha <rijo@rijo.in>
-- [https://rijo.in](https://rijo.in)
